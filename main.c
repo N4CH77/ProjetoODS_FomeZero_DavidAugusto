@@ -29,7 +29,7 @@ int main() {
             lerDocumentos();
             break;
         case 3:
-            printf("\n>>> Você escolheu ATUALIZAR\n");
+            atualizarDocumento();
             break;
         case 4:
             printf("\n>>> Você escolheu DELETAR\n");
