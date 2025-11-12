@@ -44,7 +44,7 @@ Este projeto evoluiu de um script de arquivo único para uma arquitetura modular
 ---
 
 ## Demonstração
-<img width="1536" height="946" alt="demo png" src="https://github.com/user-attachments/assets/5df686dd-4437-4f1e-b7ca-2be930025769" />
+<img width="1126" height="900" alt="Captura de tela 2025-11-12 150757" src="https://github.com/user-attachments/assets/bd4ac148-dd72-4a78-a53c-30f267fe7298" />
 
 ---
 
