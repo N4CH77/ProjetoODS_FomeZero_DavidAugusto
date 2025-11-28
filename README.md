@@ -12,9 +12,9 @@ O software foi projetado para atender ao **ODS 2 (Fome Zero e Agricultura Susten
 ## Arquitetura
 Este projeto evoluiu de um script de arquivo único para uma arquitetura modular profissional, seguindo o princípio da "Separação de Preocupações".
 
-* **`beneficiario.h` (O Contrato):** Define a `struct Beneficiario` e os protótipos das funções, servindo como interface pública.
-* **`beneficiario.c` (O Motor):** Contém a implementação real da lógica de negócios (cadastrar, listar, atualizar, lógica de arquivos).
-* **`main.c` (O Controlador):** Serve apenas como ponto de entrada e gerenciamento do menu, delegando a lógica para o motor.
+* **`beneficiario.h`:** Define a `struct Beneficiario` e os protótipos das funções, servindo como interface pública.
+* **`beneficiario.c`:** Contém a implementação real da lógica de negócios (cadastrar, listar, atualizar, lógica de arquivos).
+* **`main.c`:** Serve apenas como ponto de entrada e gerenciamento do menu, delegando a lógica para o motor.
 * **`Makefile`:** Automatiza o processo de compilação dos múltiplos arquivos.
 
 ---
